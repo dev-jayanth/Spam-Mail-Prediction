@@ -1,4 +1,4 @@
-# Spam-Mail-Prediction
+# Spam Mail Prediction
 
 ## Predicting whether the mail comes under spam or non - spam.
 
