@@ -5,6 +5,6 @@
 * Performed data analysis and preprocessing on mail data
 * Built a predictive system to predict mail is spam or not
 * Method Used: Logistic Regression
-* Libraries Used: Pandas, Numpy, sklearn
+* Libraries Used: pandas, numpy, sklearn
 
 
